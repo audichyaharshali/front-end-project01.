@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="explore.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div id="part1">
+        <div class="overlay">
+            <div id="nav">
+                <h3>About</h3>
+                <h3>Explore</h3>
+                <h3><i class="ri-map-pin-line"></i></h3>
+                <h3>Journal</h3>
+                <h3><i class="ri-search-line"></i>Search</h3>
+            </div>
+            <!-- <span id="centerpart">-->
+            <h1>The Great Outdoors</h1>
+            <h4>Wander often.Wonder always</h4>
+            <h2><i class="ri-play-circle-line"></i></h2>
+            <!--</span>-->
+        </div>
+    </div>
+    <div id="part2">
+        <h5>Explore the world</h5>
+        <h6>We seek to provide the most authenthic content from athletes,adventures,<br> explores and travellers around
+            the world.Our long-term mission is to educate,<br> inspire and enable all peoples to experiences & protect
+            wilderness.</h6>
+        <div id="card">
+            <div class="cards" id="c1"></div>
+            <div class="cards" id="c2"></div>
+            <div class="cards" id="c3"></div>
+        </div>
+        <span id="aa">
+            <a href="#">SEE MORE<i class="ri-arrow-drop-right-line"></i></a>
+        </span>
+
+    </div>
+    <div id="part3">
+        <h5>The Journal</h5>
+        <h6>Our favourite stories about public lands and opportunities for you to get<br> involved in protecting your
+            outdoor experiences.</h6>
+        <div class="secondcard">
+            <div class="card2" id="cr1"></div>
+            <div class="card2" id="cr2"></div>
+        </div>
+        <div class="text">
+            <div class="lan" id="t1">
+                <h6>MAY 30,2020</h6>
+                <h5>An Unforgottable</h5>
+                <h4>if you only have one day to visit Yosemite National Park <br> and you want to make the most out of
+                    it. </h4>
+            </div>
+            <div class="lan" id="t2">
+                <h6>MAY 28,2021</h6>
+                <h5>Symphonies in Steel</h5>
+                <h4>Crossing the Gokden Gate Bridge from San Francisco ,you<br> arrive in Manin even before landing on
+                    solid ground.</h4>
+            </div>
+        </div>
+        <span id="pp">
+            <a href="#">ALL POSTS </a>
+        </span>
+    </div>
+    <div id="part4">
+        <div class="overlaysecond">
+            <footer><i class="ri-copyright-line">2020 THE GREAT OUTDOORS.</i>
+                <h5>All rights reserved.</h5>
+                <h6>|</h6>
+                <h6>ABOUT</h6>
+                <h6>EXPLORE</h6>
+                <H6>JOURNAL</H6>
+                <H6>SEARCH</H6>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>
